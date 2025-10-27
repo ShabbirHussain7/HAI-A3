@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the following preprint."
+authors:
+  - family-names: "Majumder"
+    given-names: "Rifatul Islam"
+title: "Efficient Classification of Pulmonary Pneumonia and Tuberculosis Alongside Normal and Non-X-ray Images with Minimal Resources and Maximum Accuracy"
+doi: "10.1101/2024.12.31.24319820"
+date-released: 2024-12-31
+repository-code: "https://github.com/<your-username>/<your-repo>"
+license: "Non-commercial, educational, and research use only"
